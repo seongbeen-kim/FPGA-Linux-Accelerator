@@ -1,0 +1,31 @@
+
+# Verilog simulation outputs
+*.vvp
+*.vcd
+*.fst
+*.lxt
+
+# Build directories
+build/
+sim/
+bin/
+obj/
+
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+
+# C compiled files
+*.o
+*.out
+*.exe
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
